@@ -1,1 +1,2 @@
-# Personal project of Tai.
+# About
+Personal project of Tai.
