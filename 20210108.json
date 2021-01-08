@@ -7,12 +7,12 @@
             "description": "Drag the hexagon tiles onto the platform, collect the tiles with the same number in order to merge them into one when they touch. Add them all up to reach 4096, to complete the level.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=4096&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "161",
             "name": "4096",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/4096.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "AceMan",
@@ -21,12 +21,12 @@
             "description": "Tap on and hold until your preferred power has been reached, release and ace! You have scored into the hole.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=AceMan&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "162",
             "name": "Ace Man",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/AceMan.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "AmazingRoad",
@@ -35,12 +35,12 @@
             "description": "The aim of the game is to connect the green ball to the green circle. By sliding to the desired direction it will move. When a two-way street comes along, slide towards the most likely one to be the way. Collect all the stars to reach 200 and win the game.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=AmazingRoad&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "163",
             "name": "Amazing Road",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/AmazingRoad.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "AnipopLink",
@@ -49,12 +49,12 @@
             "description": "The objective of the game is to fill out the entire map by dragging the animal to the corresponding balls to pass the stage. Try to save steps, in order to use them into more difficult stages of the game.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=AnipopLink&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "164",
             "name": "Anipop Link",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/AnipopLink.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "ArcheryMaster",
@@ -63,12 +63,12 @@
             "description": "Showcase your aiming skills, by choosing two different game modes. You can either choose story mode and compete in the tournaments, or free mode and train your aim. To shoot you need to tap, hold and move the bow - so the crosshair is at the target. Watch the direction of the wind as it plays a major role in your arrow’s trajectory. Release when you think is best and receive your score. Aim to score higher, in order to achieve the gold medal.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=ArcheryMaster&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "165",
             "name": "Archery Master",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/ArcheryMaster.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "BatterKing",
@@ -77,12 +77,12 @@
             "description": "Batter King is the game where you can really showcase your cricket skills, the moment the target of the ball is green. Use the keys or tap to hit the ball, and score. The ultimate goal of the game is to score as many points as you can!",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=BatterKing&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "166",
             "name": "Batter King",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/BatterKing.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "BigSword",
@@ -91,12 +91,12 @@
             "description": "Tap along the screen, to move your character by avoiding the bullets, slice up your enemies and reach the finish line.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=BigSword&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "167",
             "name": "Big Sword",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/BigSword.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "BlockGun3D",
@@ -105,12 +105,12 @@
             "description": "Hold to shoot, place your target on the enemy and let go. Upgrade your weapons, helmet and armor to level up. Choose between different modes depending on your desired play.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=BlockGun3D&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "168",
             "name": "Block Gun 3D",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/BlockGun3D.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "BlockPuzzle",
@@ -119,12 +119,12 @@
             "description": "Aim and shoot, destroy all the enemies on your way. Remember, you can constantly upgrade your guns and equipment. Only by becoming stronger can we go further",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=BlockPuzzle&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "169",
             "name": "Block Puzzle",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/BlockPuzzle.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "BoardTheTrain",
@@ -133,12 +133,12 @@
             "description": "The objective of the game is to collect all the passengers, and go through the map and its obstacles, to reach the final destination. You play by tapping and holding on the screen.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=BoardTheTrain&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "170",
             "name": "Board The Train",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/BoardTheTrain.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "BubbleBlast",
@@ -147,12 +147,12 @@
             "description": "The aim of the game is to get rid of all the bubbles that are stuck on the pillar before they reach the bottom. Match the given colored bubble to any 2+ of the same colour to pop them and reduce the bubbles. By sliding to look around the tower, and tapping to shoot the bubble at its given trajectory. You can tap on an angle or straight in order to match with the rest of the bubbles. Being patient here is the key, along with using the right strategic movements.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=BubbleBlast&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "171",
             "name": "Bubble Blast",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/BubbleBlast.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "BulletMaster3D",
@@ -161,12 +161,12 @@
             "description": "Tap on the aim of the enemies to kill them off. Choose a different weapon, or character. Reload the guns by scrolling down.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=BulletMaster3D&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "172",
             "name": "Bullet Master 3D",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/BulletMaster3D.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "BumbleShooter",
@@ -175,12 +175,12 @@
             "description": "The objective of the game is to get rid of all the bubbles and reach the desired score, to continue onto the next level. With the given bubble aim and tap to shoot at the colored set of bubbles to pop them all. To skip all the bubbles aim to clear a path and snap the bubble with the star, which will give you a huge amount of points and progress you onto the next level.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=BumbleShooter&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "173",
             "name": "Bumble Shooter",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/BumbleShooter.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "CollectColorfulBalls",
@@ -189,12 +189,12 @@
             "description": "The objective of the game is to collect all the non-colour balls with the color balls, and collect them all into the box. Tap on the silver keys, in order to remove them and let the color balls mix with the non-color balls to increase their sizes. Remove all the silver keys and collect all of the color balls. Watch out for the bombs and other traps along the levels.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=CollectColorfulBalls&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "174",
             "name": "Collect Colorful Balls",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/CollectColorfulBalls.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "ColorBall3D",
@@ -203,12 +203,12 @@
             "description": "Tap along to change the direction of the ball, once the ball on the map changes colour collect the specified ball colours.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=ColorBall3D&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "175",
             "name": "Color Ball 3D",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/ColorBall3D.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "CrashTower3D",
@@ -217,12 +217,12 @@
             "description": "Shoot the tower, but do not shoot the barriers protecting the tower, because you will die. Shoot the tower precisely to progress further down the game.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=CrashTower3D&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "176",
             "name": "Crash Tower 3D",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/CrashTower3D.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "CrazyBomb",
@@ -231,12 +231,12 @@
             "description": "The aim of the game is to get rid of all the boxes off the platform. You have to substitute the boxes with the required explosives you think is best to get rid of all the boxes. By tapping on the desired box and tap again on the desired dynamite. Each bomb has its different abilities, once you think you are done tap on the bomb starter.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=CrazyBomb&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "177",
             "name": "Crazy Bomb",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/CrazyBomb.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "CrazyKnife",
@@ -245,12 +245,12 @@
             "description": "The objective of the game is to slice up all vegetables by tapping on the screen, and reach the end. Try to avoid slicing on the wooden or iron plates, as it makes you lose your streak and slows you down.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=CrazyKnife&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "178",
             "name": "Crazy Knife",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/CrazyKnife.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "CrazyMoto",
@@ -259,12 +259,12 @@
             "description": "Objective of the game is to finish the race first. Tap on the screen to speed up, collect weapons and abilities to knock the others off their bikes. Upgrade your motorbike, and props, to improve your racing abilities. Unlock maps by completing tasks and races. Login daily to receive amazing rewards.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=CrazyMoto&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "179",
             "name": "Crazy Moto",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/CrazyMoto.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "CrazyPortal",
@@ -273,12 +273,12 @@
             "description": "The aim of the game is to get rid of all the bandits and collect the stars along the way. By aiming with sliding and taping to shoot the first blue portal, which creates the start for the object to go through. Where the second yellow bullet is set to the desired trajectory to collect the stars and kill the bandit.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=CrazyPortal&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "180",
             "name": "Crazy Portal",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/CrazyPortal.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "CrazyTrain3D",
@@ -287,12 +287,12 @@
             "description": "The aim of the game is to get the highest score possible, by going through the map, making stunts and collecting carts to achieve combo points. Tap and hold to increase the speed of your train.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=CrazyTrain3D&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "181",
             "name": "Crazy Train 3D",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/CrazyTrain3D.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "DeathRun",
@@ -301,12 +301,12 @@
             "description": "The objective of the game is to kill off the contestants the moment they are all on the killing areas by tapping on the screen, in order to progress onto the next level.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=DeathRun&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "182",
             "name": "Death Run",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/DeathRun.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "DefenseTower",
@@ -315,12 +315,12 @@
             "description": "Defend the treasurer from the enemies, by building towers. Drag and drop tow of the same level towers to upgrade into a better tower. Complete quests to receive gold and strengthen your capabilities to improve your game.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=DefenseTower&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "183",
             "name": "Defense Tower",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/DefenseTower.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "DragonCrush",
@@ -329,12 +329,12 @@
             "description": "Collect the specified eggs, by tapping on 2 or more sets of the same eggs, to collect. You cannot collect the eggs by tapping on only one, try to click on as many eggs as possible to save onto moves and move onto the next level.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=DragonCrush&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "184",
             "name": "Dragon Crush",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/DragonCrush.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "DressQueen",
@@ -343,12 +343,12 @@
             "description": "The objective of the game is to reach the highest possible rank in regards to being the best fairy model. By collecting fairy power, and purchasing upgrades and leveling up your fairies. Tap onto the collect button, to keep earning fairy power. Purchase different types of fairies to earn higher fairy power, along with different power-up abilities in regards to collecting fairy power. Once enough fair power has been gathered, tap on the “Make” section and create your desired outfit. Once that is done, tap on the play button, choose or mix your outfit to enter the competition. Rank the other fairies in order to increase your rank as well.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=DressQueen&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "185",
             "name": "Dress Queen",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/DressQueen.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "FeverRacing",
@@ -357,12 +357,12 @@
             "description": "The objective of the game is to get the highest score possible. By tapping and holding, along with sliding around the screen to steer the vehicle. Maneuver your way around the other cars, follow the green arrow to collect different abilities to defend yourself and continue to rank up the score.",
             "fullscreen": false,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=FeverRacing&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "186",
             "name": "Fever Racing",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/FeverRacing.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "FireTheGun",
@@ -371,12 +371,12 @@
             "description": "When aiming at the range, tap on the yellow button to shoot and gain the most points by hitting the bullseye. Buy more weapons and merge the same two weapons to create a greater weapon.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=FireTheGun&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "187",
             "name": "Fire The Gun",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/FireTheGun.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "FisherMan",
@@ -385,12 +385,12 @@
             "description": "Tap along to collect the fishes. By fishing you can earn the money, with the money you can upgrade your boat - as it increases your fishing skills.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=FisherMan&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "188",
             "name": "Fisher Man",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/FisherMan.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "FlyPass",
@@ -399,12 +399,12 @@
             "description": "The objective of the game is to get the ball through the hoop, by tapping and making the hoop go into the direction of the ball. Try to get at least 5 points before your opponent gets any, and before the timer runs out. Claim your rewards and unlock special deals.",
             "fullscreen": false,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=FlyPass&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "189",
             "name": "Fly Pass",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/FlyPass.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "GoldenGlove",
@@ -413,12 +413,12 @@
             "description": "Are you a catcher, choose your favourite sports team and demonstrate your skills by sliding your finger or mouse along the screen to catch the ball.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=GoldenGlove&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "190",
             "name": "Golden Glove",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/GoldenGlove.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "GunShooter",
@@ -427,12 +427,12 @@
             "description": "Like playing softball but online, hide behind the obstacles and shoot the other players in order progress further onto the next level. Tap when you are ready to shoot!",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=GunShooter&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "191",
             "name": "Gun Shooter",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/GunShooter.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "HappyBilliards",
@@ -441,12 +441,12 @@
             "description": "Move the ball to its desired location by tapping and swiping up. Claim your rewards, so you can purchase different types of skins.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=HappyBilliards&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "192",
             "name": "Happy Billiards",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/HappyBilliards.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "HelpTheZombie",
@@ -455,12 +455,12 @@
             "description": "Tap on the arrows to make the box turn and make the zombie fall down onto the target, by converting the human into a zombie. Try to get three stars in the desired moves.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=HelpTheZombie&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "193",
             "name": "Help The Zombie",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/HelpTheZombie.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "HillRacing",
@@ -469,12 +469,12 @@
             "description": "Control the vehicle and climb over the hills. Timing is very important. If the car does not overturn, the car may be destroyed or killed. Are you ready to go?",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=HillRacing&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "194",
             "name": "Hill Racing",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/HillRacing.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "HiTaxi",
@@ -483,12 +483,12 @@
             "description": "Tap on to speed up and collect the customer, and drop him off at his final destination.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=HiTaxi&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "195",
             "name": "Hi Taxi",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/HiTaxi.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "HungryAnimals",
@@ -497,12 +497,12 @@
             "description": "The objective of the game is to collect all the food, and feed it to the given animals. In this case collect all the watermelons and feed it to the hippos. Tap and slide the tool to collect all the food, watch out for birds and other obstacles along the map. You need to pass all the mini-games before passing onto the next level. Pass the levels to collect, rubies and purchase new food collecting tools.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=HungryAnimals&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "196",
             "name": "Hungry Animals",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/HungryAnimals.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "IdleRestaurantTycoon",
@@ -511,12 +511,12 @@
             "description": "Manage your restaurant and idle profit, make a strategy to increase your business, hire chefs + upgrade their skills, upgrade kitchen set - make more money and progress further up the game.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=IdleRestaurantTycoon&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "197",
             "name": "Idle Restaurant Tycoon",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/IdleRestaurantTycoon.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "ImEmpire",
@@ -525,12 +525,12 @@
             "description": "The aim of the game is to maximise the characters and be the greatest empire ever. Drag and drop two of the same level of characters together to create a more advanced character. Spin the lucky wheel to get free rewards, to get more coins tap on the speedup option. Log In to get offline bonuses and improve your empire.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=ImEmpire&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "198",
             "name": "Im Empire",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/ImEmpire.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "JumpingMonkey",
@@ -539,12 +539,12 @@
             "description": "The objective of the game is to get the monkey to the bottom. By holding onto the screen and moving, in order to get the monkey to fit in between the leaves. Miss as many as possible levels to make the monkey powerful enough to crush the leafs if you miss the gap.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=JumpingMonkey&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "199",
             "name": "Jumping Monkey",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/JumpingMonkey.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "KillAllZombies",
@@ -553,12 +553,12 @@
             "description": "The main objective is to kill all the zombies, by moving forward and shoving the zombies off the top of the building to move onto the next, and get to the helicopter. You can upgrade your character, weapons.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=KillAllZombies&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "200",
             "name": "Kill All Zombies",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/KillAllZombies.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "KimbapRun",
@@ -567,12 +567,12 @@
             "description": "Kimbap Run is a puzzle strategy game, where you play by tapping to change the directions of where you are going. It is a continuous game, as you progress the levels will change and will make it harder for you to achieve a high score.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=KimbapRun&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "201",
             "name": "Kimbap Run",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/KimbapRun.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "Knife",
@@ -581,12 +581,12 @@
             "description": "Swipe around and aim at the enemies, before the map closes down on you. Upgrade your skills and weapons to increase the chances of you winning the game.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=Knife&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "202",
             "name": "Knife",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/Knife.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "KnockBalls",
@@ -595,12 +595,12 @@
             "description": "Aim and tap to shoot to ruin the balance of the structure, progress further in the game.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=KnockBalls&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "203",
             "name": "Knock Balls",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/KnockBalls.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "LetMeIn",
@@ -609,12 +609,12 @@
             "description": "Collect as many people as possible, by tapping and holding to collect all. Upgrade your vehicle, to increase stability and load of people.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=LetMeIn&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "204",
             "name": "Let Me In",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/LetMeIn.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "MagicDonuts",
@@ -623,12 +623,12 @@
             "description": "The goal of the game is to get the donuts to fly through the ball. Get to 5 points before your opponent does. By doing so you will progress further in the game, receive gold and purchase different skins.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=MagicDonuts&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "205",
             "name": "Magic Donuts",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/MagicDonuts.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "MahjongConnect",
@@ -637,12 +637,12 @@
             "description": "The goal of the game is to get mahjong, or get rid of all the tiles in sets of four and one pair. Tap one of the blocks and find its consecutive clone, tap them fast if you want to activate streak ability and increase your score. Slide around, zoom in or out to look at the whole structure.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=MahjongConnect&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "206",
             "name": "Mahjong Connect",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/MahjongConnect.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "MahjongLink3D",
@@ -651,12 +651,12 @@
             "description": "The aim of the game is to get rid of all the cubes, by connecting two of the same blocks together before the timer runs out. You cannot select a block that is covered by all sides with a block that is uncovered. Both of the blocks need to be free by at least 3 of its sides!",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=MahjongLink3D&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "207",
             "name": "Mahjong Link 3D",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/MahjongLink3D.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "MergeAndDefense",
@@ -665,12 +665,12 @@
             "description": "The aim of the game is to defend the egg from the upcoming enemies, and progress into the next levels. Merge two of the same characters by dragging them on top of each other to build up a stronger character. Fight off waves of  bugs and take down bosses to unlock new cards and abilities. Take a break and watch your cute characters do all the work for you while you are away. Come back to see your progress and claim your idle earnings.",
             "fullscreen": false,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=MergeAndDefense&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "208",
             "name": "Merge And Defense",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/MergeAndDefense.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "MergeGuns3D",
@@ -679,12 +679,12 @@
             "description": "Prove you are a better shooter by shooting down all the targets. Select your prize. Merge the guns to create an improved version of your gun, and progress further in the game.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=MergeGuns3D&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "209",
             "name": "Merge Guns 3D",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/MergeGuns3D.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "MergeKill",
@@ -693,12 +693,12 @@
             "description": "Slide around to find characters to kill. Kill as many heros as possible to win coins and pass the level. Use the coins to upgrade your weapons, merge two of the same heros to upgrade into a stronger hero and kill the others.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=MergeKill&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "210",
             "name": "Merge Kill",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/MergeKill.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "MergeMagicJewellery",
@@ -707,12 +707,12 @@
             "description": "The objective of the game is to find all the gems, drag them and merge them together to create a greater gem. Rank up and earn coins, by collecting the jewellery. Use the coins to purchase higher levels of gems to pop up inside the boxes on the field.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=MergeMagicJewellery&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "211",
             "name": "Merge Magic Jewellery",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/MergeMagicJewellery.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "Mining",
@@ -721,12 +721,12 @@
             "description": "Tap the next block, collect as many ores as possible, tap on the dynamites or magma cubes to blow up a larger area of the cave. Once you have reached the bottom collect your reward, purchase upgrades to level up your miner to unlock different game modes.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=Mining&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "212",
             "name": "Mining",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/Mining.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "MiningMaster",
@@ -735,12 +735,12 @@
             "description": "The objective of the game is to destroy the given stones, and move along the next level. Hold and drag along, to let the miner throw his pickaxe to destroy the stones. Watch out for the stones to not hit you because you will die. You can purchase upgrades for your pickaxe and throwing speed, in order to be more efficient.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=MiningMaster&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "213",
             "name": "Mining Master",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/MiningMaster.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "MrBullet",
@@ -749,12 +749,12 @@
             "description": "The objective of the game is to kill off the bandits. Aim by holding and dragging your pointer to the desired trajectory in order to kill off the bandits. With each level completed you earn cash, with that cash you can purchase different types of skins and firearms.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=MrBullet&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "214",
             "name": "Mr Bullet",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/MrBullet.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "PetRun",
@@ -763,12 +763,12 @@
             "description": "Match the coloured boxes, until the pets start showing up, match the pets and progress further in the game. The game relies on logical and time skills.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=PetRun&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "215",
             "name": "Pet Run",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/PetRun.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "PetsMatch",
@@ -777,12 +777,12 @@
             "description": "Find three or more identical squares in a row and eliminate them. Don't let the square top the top of the screen. There will be magical props to help you.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=PetsMatch&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "216",
             "name": "Pets Match",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/PetsMatch.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "PianoKeys",
@@ -791,12 +791,12 @@
             "description": "Tap the black keys before they disappear to pass onto the next level. Tap on the red hearts to collect, to give yourself a second life. You can browse from a selection of songs.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=PianoKeys&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "217",
             "name": "Piano Keys",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/PianoKeys.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "SaveThePets",
@@ -805,12 +805,12 @@
             "description": "Tap on, to create the desired length for the bridge, move on the buildings and save the pets. You can switch between your pets that you have acquired or roles.",
             "fullscreen": false,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=SaveThePets&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "218",
             "name": "Save The Pets",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/SaveThePets.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "ShootingCubes",
@@ -819,12 +819,12 @@
             "description": "Aim and shoot at the cubes, to fully clear out the mainfield.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=ShootingCubes&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "219",
             "name": "Shooting Cubes",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/ShootingCubes.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "ShootSmash",
@@ -833,12 +833,12 @@
             "description": "Tap on the shooting cannon, to smash the fruit. Upgrade your weapons and increase your ammo, to progress onto the next level.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=ShootSmash&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "220",
             "name": "Shoot Smash",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/ShootSmash.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "SkyRunning3D",
@@ -847,12 +847,12 @@
             "description": "Finish the race before your opponents do. Hold and drag to change the direction of where you are going to.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=SkyRunning3D&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "221",
             "name": "Sky Running 3D",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/SkyRunning3D.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "SoccerHero",
@@ -861,12 +861,12 @@
             "description": "-",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=SoccerHero&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "222",
             "name": "Soccer Hero",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/SoccerHero.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "SolitaireClassic",
@@ -875,12 +875,12 @@
             "description": "The main objective of the game is to release and, play in position in sequence from ace through king to collect all four suits. Patience is the key to winning this game!",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=SolitaireClassic&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "223",
             "name": "Solitaire Classic",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/SolitaireClassic.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "StickmanVsZombies",
@@ -889,12 +889,12 @@
             "description": "Tap and slide on the screen to kill off the rest of the zombies, and pass the level.",
             "fullscreen": false,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=StickmanVsZombies&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "224",
             "name": "Stickman Vs Zombies",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/StickmanVsZombies.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "SuperGolf",
@@ -903,12 +903,12 @@
             "description": "-",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=SuperGolf&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "225",
             "name": "Super Golf",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/SuperGolf.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "SuperThrow",
@@ -917,12 +917,12 @@
             "description": "Tap the screen at the right time to let your brothers catch you and throw you again! The lower the drop, the higher the throw will be. The higher the position, the faster falling speed will be, the harder is to find the time.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=SuperThrow&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "226",
             "name": "Super Throw",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/SuperThrow.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "TableTennisChampionship",
@@ -931,12 +931,12 @@
             "description": "-",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=TableTennisChampionship&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "227",
             "name": "Table Tennis Championship",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/TableTennisChampionship.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "TowerBlast3D",
@@ -945,12 +945,12 @@
             "description": "Reach the desired level by destroying the tower before running out of moves. By shooting the given coloured ball towards the corresponding colour on the tower.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=TowerBlast3D&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "228",
             "name": "Tower Blast 3D",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/TowerBlast3D.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "TowerDefenseX",
@@ -959,12 +959,12 @@
             "description": "-",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=TowerDefenseX&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "229",
             "name": "Tower Defense X",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/TowerDefenseX.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "Transform",
@@ -973,12 +973,12 @@
             "description": "Tap and slide to change into the shape required for you to pass through.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=Transform&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "230",
             "name": "Transform",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/Transform.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "TrappedPirate",
@@ -987,12 +987,12 @@
             "description": "Trapped Pirate is a puzzle strategy game, where you have to kill off the other bandits with your sword, along with other abilities that pop up. Shields, potions, bombs and treasures play in your favour, in order to leverage the battlefield and level up.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=TrappedPirate&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "231",
             "name": "Trapped Pirate",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/TrappedPirate.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "TwistyRoad",
@@ -1001,12 +1001,12 @@
             "description": "Put the pink cube into place, by either swiping left or right in order to build the road and let the ball pass.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=TwistyRoad&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "232",
             "name": "Twisty Road",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/TwistyRoad.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "VirusWar",
@@ -1015,12 +1015,12 @@
             "description": "Create viruses, and merge two of the same to unlock a new stronger virus. Defeat the enemy  by attacking other small neutral viruses and conquer their home and increase your army. Buy Upgrades to level up and destroy the other viruses.",
             "fullscreen": false,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=VirusWar&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "233",
             "name": "Virus War",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/VirusWar.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "ZombieSurvival",
@@ -1029,12 +1029,12 @@
             "description": "Kill off the other zombies by moving around the map, kill them to collect gold and level up your weapons, to progress in the game.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=ZombieSurvival&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "234",
             "name": "Zombie Survival",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/ZombieSurvival.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "ZooBlast",
@@ -1043,12 +1043,12 @@
             "description": "Collect the given animals. Tap on the block containing the selected animal but they must be 2 or more of the same animals together, in order to collect them all. Combine certain sets of blocks to unlock power ups..",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=ZooBlast&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "235",
             "name": "Zoo Blast",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/ZooBlast.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "ZumaMarbles",
@@ -1057,12 +1057,12 @@
             "description": "The main objective of the game is to match 3 like marbles by shooting them from the cannon. Match more than 3 and you will get power ups, that you can match again and destroy a wide range of marbles. Match them all before they reach the tunnel, to progress into the next level.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=ZumaMarbles&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "236",
             "name": "Zuma Marbles",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/ZumaMarbles.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "PandaRescue",
@@ -1071,12 +1071,12 @@
             "description": "The objective of the game is to rescue the panda and it's friends from the wolfs, and the desesrted land.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=PandaRescue&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "237",
             "name": "Panda Rescue",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/PandaRescue.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "FillTheGlass",
@@ -1085,12 +1085,12 @@
             "description": "The glass is empty. Your Job is to draw a line to make the glass filled up with liquid.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=FillTheGlass&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "238",
             "name": "Fill The Glass",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/FillTheGlass.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "MagicNumber",
@@ -1099,12 +1099,12 @@
             "description": "The objective of the game is to connect four pieces of the same number and form a more advanced piece to deal a higher damage. You cannot move a piece to an empty spot, if it's blocked by all it's sides. You can choose two different modes, an endless gameplay or a storymode.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=MagicNumber&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "239",
             "name": "Magic Number",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/MagicNumber.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "PlantBeatZombies",
@@ -1113,12 +1113,12 @@
             "description": "Plant Beat Zombies, a 2D casual player version of plants vs zombies - purchase the desired plant. Upgrade them by merging them together and kill of the dropping zombies from the sky.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=PlantBeatZombies&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "240",
             "name": "Plant Beat Zombies",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/PlantBeatZombies.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "HungryMonster",
@@ -1127,12 +1127,12 @@
             "description": "The main objective of the game is to feed the monster, by going all the way into enemy lines and grabbing the egg, then going back by avoiding the given obstacles to feed the big monster.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=HungryMonster&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "241",
             "name": "Hungry Monster",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/HungryMonster.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "AirHockey3D",
@@ -1141,12 +1141,12 @@
             "description": "Classic Air Hockey is a game where two players play aginst each other on a low-friction table. Here you can play online vs the computer or a friend. The aim of the game is to score higher than your oponent and win the game.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=AirHockey3D&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "242",
             "name": "Air Hockey 3D",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/AirHockey3D.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "MyBowling3D",
@@ -1155,12 +1155,12 @@
             "description": "The objecitve of the game is to roll the ball and knock over the other oponent's pin. Knocking over a pin scores one point. Knocking all 5x or 10x pins scores you 5 or 10 points (strike). If playing against the computer, you can choose the difficulty from easy, medium and hard. You can also choose how many pins to have 5 or 10. Or you can also play against a friend.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=MyBowling3D&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "243",
             "name": "My Bowling 3D",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/MyBowling3D.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "Chess3D",
@@ -1169,12 +1169,12 @@
             "description": "MyChess3D is a game of mind and focus, in which you have to checkmate the opponent's king by placing it under inescapable threat of capture. To this end, a player's pieces are used to attack and capture the opponent's pieces while supporting one another. You can choose 6 difficulties, play against a friend or the computer.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=Chess3D&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "244",
             "name": "Chess 3D",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/Chess3D.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "DartsKing3D",
@@ -1183,12 +1183,12 @@
             "description": "The objective of the game is to score the highest number of points versing your oponent which can be the computer or a friend. If playing against the computer you can choose a difficulty from easy, medium or hard. The most common objective is to reduce a fixed score, 301 or 501 to zero.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=DartsKing3D&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "245",
             "name": "Darts King 3D",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/DartsKing3D.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "MyBabyCare",
@@ -1197,12 +1197,12 @@
             "description": "See what babysitting is all about as you take care of the baby. From showering, to aftershower, playing, feeding, teaching, grooming, dressing and sleeping.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=MyBabyCare&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "246",
             "name": "My Baby Care",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/MyBabyCare.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "8BallKing",
@@ -1211,12 +1211,12 @@
             "description": "The main objective of the game is that you outbeat your opponent by pocketing all of your chosen balls, and win the game. You can either play against the computer or a friend.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=8BallKing&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "247",
             "name": "8 Ball King",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/8BallKing.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "HungyBunny",
@@ -1225,12 +1225,12 @@
             "description": "The objective of this puzzle game is to make the easiest possible path for the bunny to get to its carrots and reach the end.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=HungyBunny&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "248",
             "name": "Hungy Bunny",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/HungyBunny.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "MyUnicorn",
@@ -1239,12 +1239,12 @@
             "description": "Unicorn is your favourite animal, well in this game you take care of your chosen unicorn. From bathing, to grooming, health checks, feeding, and dress ups.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=MyUnicorn&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "249",
             "name": "My Unicorn",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/MyUnicorn.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "BallIsComing",
@@ -1253,12 +1253,12 @@
             "description": "Ready to shoot some hoops? Grab a ball and start dunking! BallsComing is a hot action game that anybody can enjoy! Instead of shooting the hoops however, you get to draw a line and make the ball reach the hoop without shooting it.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=BallIsComing&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "250",
             "name": "Ball Is Coming",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/BallIsComing.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "MagicJigsaw",
@@ -1267,12 +1267,12 @@
             "description": "Magic Jigsaw puzzles is a free game for users of all ages! Choose the way your puzzle is wanted with x81 pieces or x144, x256. Select your desired photo to do and become the ultimate puzzle solver!",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=MagicJigsaw&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "251",
             "name": "Magic Jigsaw",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/MagicJigsaw.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "MahjongLink",
@@ -1281,12 +1281,12 @@
             "description": "Mahjong Link is a fun skill building tile game. Tiles are stacked at different levesl and is up to the player to find the correct match for each tile. Players have a choice of diffuculty when they first enter the game. Mahjong is famous for its abillity to induce Zen type state for those who play it. It also builds on problem solving skills because it requires, the players to plan out moves in advance to allow for the highest possible number of matches following the current move.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=MahjongLink&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "252",
             "name": "Mahjong Link",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/MahjongLink.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "FairyTalesPuzzle",
@@ -1295,12 +1295,12 @@
             "description": "Play Fairy Tales a puzzle game where you can indulge yourself into magical stories from unicorns to giant mushrooms and so on.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=FairyTalesPuzzle&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "253",
             "name": "Fairy Tales Puzzle",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/FairyTalesPuzzle.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "CrazyRace",
@@ -1309,12 +1309,12 @@
             "description": "Fast action speed racing with your boat or car around endless race track. One tap easy to learn controls with addictive gameplay.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=CrazyRace&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "254",
             "name": "Crazy Race",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/CrazyRace.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "ArchersKing",
@@ -1323,12 +1323,12 @@
             "description": "Entering the surfing world with a twist of archery. Begin your amazing journey of surfing trough the waves and shooting down your enemies. Shoot as many and as quickly as you can, before they shoot you down. With the coins you earn you can purchase, different arrow upgrades during gameplay in order to score as many points as possible.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=ArchersKing&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "255",
             "name": "Archers King",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/ArchersKing.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "PipePuzzle",
@@ -1337,12 +1337,12 @@
             "description": "Ready to train your brain and put your logical skills to the test? Play TapMyWater now! With different type of blocks, you get to really enhance your logical skills. All you need to do is slide block pipes, connect them and make water paths. Easy to play and get addicted while playing this connect water pipe puzzle game.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=PipePuzzle&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "256",
             "name": "Pipe Puzzle",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/PipePuzzle.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "DeathJump",
@@ -1351,12 +1351,12 @@
             "description": "Jump and find your way trough danger in this rhythm-based action platformer! Prepare for a near impossible challenge for your little giant to jump trough dangerous passages and spiky obstacles.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=DeathJump&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "257",
             "name": "Death Jump",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/DeathJump.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "TrafficPassing",
@@ -1365,12 +1365,12 @@
             "description": "Want to satisfy your challenge seeking, and make it really satisfying challenge. The ultimate Traffic Passing game is here! Think outside the box and you'll be expert of the game. Try this addicitve game and train your mind to solve each level, prove that ou are the smartest champion.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=TrafficPassing&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "258",
             "name": "Traffic Passing",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/TrafficPassing.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "CrazyHammer",
@@ -1379,12 +1379,12 @@
             "description": "Walk around and smash your enemies whie in the arena. You are in the wilderness, with your choise of weapon a hammer - fight for your survival! There is only room for one hammer master!",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=CrazyHammer&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "259",
             "name": "Crazy Hammer",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/CrazyHammer.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "TrafficRun",
@@ -1393,12 +1393,12 @@
             "description": "If you are looking for a driving casual game, Traffic Run is the game you are looking for. Driving requires attention and askill. So with the help of your reflexes, try to reach the finish line without hitting other vehicles and collect gold coins. Be careful not to hit the other cars. This fun game will offer you a nice gaming experience.",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=TrafficRun&platform=uptapbox",
-            "height": 320,
+            "height": 480,
             "id": "260",
             "name": "Traffic Run",
             "platform": "uptapbox",
             "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/TrafficRun.png",
-            "width": 480
+            "width": 320
         },
         {
             "appid": "test",
@@ -1406,10 +1406,12 @@
             "description": "",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=test&platform=uptapbox",
+            "height": 480,
             "id": "261",
             "name": "test",
             "platform": "uptapbox",
-            "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/test.png"
+            "thumbnail": "https://cdn.iwantalipstick.com/gameicon2/test.png",
+            "width": 320
         }
     ]
 }
