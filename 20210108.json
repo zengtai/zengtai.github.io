@@ -1403,7 +1403,7 @@
         {
             "appid": "test",
             "date": "2020/1/1 14:28:00",
-            "description": "NUL",
+            "description": "",
             "fullscreen": true,
             "gamecode": "https://cdn.supereasygame.com/newgames/minigame.html?appid=test&platform=uptapbox",
             "id": "261",
